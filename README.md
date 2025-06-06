@@ -1,0 +1,1 @@
+Proyek website e-commerce sederhana yang dikembangkan menggunakan HTML, CSS, dan JavaScript. Dirancang sebagai platform toko perhiasan online dengan antarmuka responsif, proyek ini masih dalam tahap pengembangan untuk penyempurnaan fitur dan tampilan.
